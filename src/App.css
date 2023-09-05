@@ -41,6 +41,6 @@ body {
   color: rgb(0, 24, 111);
 }
 .btn-secondary {
-  background: rgb(0, 24, 111);
-  color: #fff;
+  background: rgb(255, 255, 255);
+  color: #000000;
 }
